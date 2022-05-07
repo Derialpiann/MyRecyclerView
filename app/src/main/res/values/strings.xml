@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+    <string name="buah_name">Buah Name</string>
+    <string name="detail">Detail</string>
+</resources>
